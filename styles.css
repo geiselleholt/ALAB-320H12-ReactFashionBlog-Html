@@ -64,7 +64,7 @@ footer h3 {
 
 article {
     margin-bottom: 4rem;
-    border: 1px solid lightgray;
+    border-bottom: 1px solid lightgray;
     padding-bottom: 2rem;
 }
 
